@@ -1,0 +1,20 @@
+{
+  "name": "safe-device-settings",
+  "version": "1.0.0",
+  "description": "Safe Device Settings Update module with validation ordering, optimistic concurrency, and immutable transitions",
+  "main": "src/applyUpdate.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "settings",
+    "validation",
+    "concurrency",
+    "immutability"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
